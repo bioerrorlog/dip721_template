@@ -1,0 +1,4 @@
+[workspace]
+members = [
+    "src/dip721_template",
+]
