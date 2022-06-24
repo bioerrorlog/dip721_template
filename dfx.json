@@ -6,15 +6,6 @@
       "type": "rust",
       "package": "dip721_template",
       "candid": "src/dip721_template/dip721_template.did"
-    },
-    "dip721_template_assets": {
-      "type": "assets",
-      "source": [
-        "src/dip721_template_assets/assets"
-      ],
-      "dependencies": [
-        "dip721_template"
-      ]
     }
   },
   "defaults": {
